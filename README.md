@@ -7,7 +7,7 @@ look at the patches directory
 all patch files from https://dwm.suckless.org/patches/
 Patched to work with dwmblocks-async(https://github.com/UtkarshVerma/dwmblocks-async)
 ## bindings
-rofi (replacement for dmenu) - win+d \n
+rofi (replacement for dmenu) - win+d
 rofi (menu mode) - win+Shift+d
 firefox - win+w
 chromium (if installed) - win+Shift+w
